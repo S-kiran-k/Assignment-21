@@ -1,0 +1,92 @@
+export const mockData = [
+    {
+        name: "The Green Kitchen",
+        rating: "4.2",
+        timing: "18-22",
+        address: "Baker Street",
+    },
+    {
+        name: "Crispy Bites",
+        rating: "4.5",
+        timing: "12-23",
+        address: "Main Street",
+    },
+    {
+        name: "Spice Paradise",
+        rating: "4.0",
+        timing: "11-20",
+        address: "Hillside Avenue",
+    },
+    {
+        name: "Bella Italia",
+        rating: "4.8",
+        timing: "17-24",
+        address: "Broadway",
+    },
+    {
+        name: "Sushi Haven",
+        rating: "4.3",
+        timing: "16-22",
+        address: "Park Avenue",
+    },
+    {
+        name: "Mama Mia's Pizzeria",
+        rating: "4.7",
+        timing: "12-23",
+        address: "Elm Street",
+    },
+    {
+        name: "Golden Wok",
+        rating: "3.9",
+        timing: "15-21",
+        address: "Sunset Boulevard",
+    },
+    {
+        name: "Fire Grill",
+        rating: "4.1",
+        timing: "17-23",
+        address: "Ocean Drive",
+    },
+    {
+        name: "Thai Orchid",
+        rating: "4.6",
+        timing: "11-22",
+        address: "River Street",
+    },
+    {
+        name: "Sizzle & Spice",
+        rating: "4.4",
+        timing: "18-23",
+        address: "Lakeview Avenue",
+    },
+    {
+        name: "Mumbai Masala",
+        rating: "4.2",
+        timing: "12-21",
+        address: "Church Road",
+    },
+    {
+        name: "Burger Joint",
+        rating: "4.0",
+        timing: "11-20",
+        address: "Maple Street",
+    },
+    {
+        name: "Noodle House",
+        rating: "4.3",
+        timing: "13-22",
+        address: "Pine Avenue",
+    },
+    {
+        name: "BBQ Palace",
+        rating: "4.5",
+        timing: "16-23",
+        address: "Grove Lane",
+    },
+    {
+        name: "Vegetarian Delight",
+        rating: "4.6",
+        timing: "12-22",
+        address: "Cedar Street",
+    },
+];
