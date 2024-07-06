@@ -4,7 +4,6 @@ import { mockData } from "../../../public/API/Api";
 function ProductCard(props) {
 
     const img = "https://ik.imagekit.io/4z8covdo9/MERN%20BATCH%203/Card-Image.avif?updatedAt=1711983526664"
-    const[filterdata,setFilterdata] = useState([]);
     return (
         <>
             <div>
